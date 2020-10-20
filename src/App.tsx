@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 function App() {
   return (
@@ -7,6 +8,7 @@ function App() {
       <ul>
         <li>Les README for informasjon om bruk</li>
       </ul>
+      <Link to="/example">Til eksempelside</Link>
     </>
   );
 }
