@@ -3,7 +3,7 @@ import React from 'react';
 interface RouteProps {}
 
 const Routes: React.FC<RouteProps> = ({ children }) => {
-  return <div></div>;
+  return <div>{children}</div>;
 };
 
 export default Routes;
