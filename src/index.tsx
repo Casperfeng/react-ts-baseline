@@ -2,11 +2,14 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import * as serviceWorker from './serviceWorker';
+import ExampleProvider from './context/ExampleContext';
 import Routes from './navigation/Routes';
 
 ReactDOM.render(
   <React.StrictMode>
-    <Routes />
+    <ExampleProvider>
+      <Routes />
+    </ExampleProvider>
   </React.StrictMode>,
   document.getElementById('root')
 );
