@@ -1,5 +1,5 @@
 <h1 align="center">
-  JrC Baselines - React & TypeScript
+  Baseline - React & TypeScript
   <br>
   <img src="https://jordy.app/_next/static/images/header-image-35c957288a5759161d321bcba4423e7f.png" alt="React TypeScript" title="React TypeScript" width="300">
   <br>
@@ -14,8 +14,8 @@ Oppsett av prosjekter er noe som må gjøres alt for ofte. Hva om man kunne spar
 
 ## Løsning
 
-Baselines har løsningen for deg ❤️
-Klon dette prosjektet, ta i bruk det du ønsker, og skap verdi for Junior!
+Baseline er løsningen for deg ❤️
+Klon dette prosjektet, ta i bruk det du ønsker, og skap verdi!
 
 ## Bruk
 
